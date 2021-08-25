@@ -21,6 +21,6 @@
       "**/CVS": true
    },
    "files.autoSave": "off",
-   "workbench.colorTheme": "Solarized Dark",
+   "workbench.colorTheme": "Gitpod Light",
    "editor.defaultFormatter": "HookyQR.beautify"
 }
