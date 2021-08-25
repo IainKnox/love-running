@@ -341,6 +341,10 @@ footer {
         display: none;
     }
 
+    #photos {
+        column-count: 3;
+    }
+
 }
 
 /* for medium screens 950px and down */
@@ -378,6 +382,6 @@ footer {
     }
 
     #photos {
-        column-count: 3;
+        column-count: 2;
     }
 }
